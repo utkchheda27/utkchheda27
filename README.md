@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Utkarsh Chheda</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkchheda27&label=Profile%20views&color=0e75b6&style=flat" alt="utkchheda27" /> </p>
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkchheda27" alt="utkchheda27" /></a> </p> -->
 
 - 🌱 I'm currently learning **ML and REACT**
@@ -9,12 +9,12 @@
 - 👯 I'm looking to collaborate on **Any Killer Ideas**
 
 
-- 💬 Ask me about ** Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **utkchheda27@gmail.com**
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
